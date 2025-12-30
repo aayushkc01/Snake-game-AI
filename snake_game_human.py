@@ -140,3 +140,6 @@ if __name__ == '__main__':
 
     print('Final Score', score)
     pygame.quit()
+
+
+#this is a comment
